@@ -1,0 +1,35 @@
+@import url("/custom-variables/custom.css");
+
+.border-radius-small {
+    border-radius: 5px;
+}
+.border-radius-medium {
+    border-radius: 10px;
+}
+.border-radius-large {
+    border-radius: 15px;
+}
+.border-radius-full {
+    border-radius: 50%;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+.osw-light-mode {
+    background-color: var(--osw-bg-light-style) !important;
+}
+.osw-dark-mode {
+    background-color: var(--osw-bg-dark-style) !important;
+}
+.osw-navbar-light-mode {
+    background-color: var(--osw-navbar-light-style) !important;
+}
+.osw-navbar-dark-mode {
+    background-color: var(--osw-navbar-dark-style) !important;
+}
